@@ -1,4 +1,4 @@
-# Hunters Stats Bot
+# Hunters Stats Bot for Puzzle 67 (modifiable for other puzzles)
 
 This repository contains a set of Python scripts that collect, analyze, and publish statistics from multiple mining pools (e.g., Hunters, TTD, and BTCPuzzle). In addition, there are Telegram bot scripts that either post daily summaries automatically or respond to user commands (on demand).
 
