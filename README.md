@@ -187,8 +187,7 @@ python Telegram-send-user-stats_on_demand.py
 
 ## License
 
-(Optional)  
-Feel free to include any license you prefer (MIT, Apache 2.0, GPL, etc.). If you need help choosing a license, check [choosealicense.com](https://choosealicense.com/).
+Mozilla Public License 2.0
 
 ---
 
